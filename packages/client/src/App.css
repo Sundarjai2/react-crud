@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+ body{
+  background: #eceef7;
+ }
+.App-link {
+  color: #09d3ac;
+}
+
+.addBtn{
+  float: right;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.addBtn.a{
+  margin: 10px;
+}
+
+.addBtn:hover{
+  color: #ffffff;
+}
+
+.editStd a{
+  color: #ffffff !important;
+}
+
+.editStd{
+  float: left;
+  margin-right: 10px !important;
+}
+
+.backBtn{
+  width: 100px;
+  background: royalblue;
+  float: right;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.buttonBadge{
+ margin-bottom: 50px;
+}
+
+.buttonBadge button{
+  background-color: #616c75;
+}
+
+.buttonBadge button a{
+  color: #ffffff;
+}
+
+.buttonBadge button a:hover,.buttonBadge button:hover a{
+  color: #000000;
+}
+.formInnerContainer{
+  display: table-caption;
+}
+
+.cardHeader{
+  font-weight: bold !important;
+}
+.container{
+  background-color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.btn-success, .btn-success:hover{
+  color: #fff;
+    background-color: #3f51b5;
+    border-color: #3f51b5;
+}
+
+.gridAvtionBtnGroup{
+
+}
